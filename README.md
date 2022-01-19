@@ -1,6 +1,6 @@
 ### Olá! Eu sou Victor Hugo 
 
-- ✔ Estudando React 
+- ✔ Estudando Node.js 
 - 📚 Universitário da UNIFG (Ciência da Computação)
 
 <div>
