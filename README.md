@@ -1,7 +1,7 @@
 ### Olá! Eu sou Victor Hugo 
 
 - 👨🏻‍💻 Estudando Node.js 
-- 📚 Universitário da UNIFG (Ciência da Computação)
+- 📚 Universitário da UNIFG ( Ciência da Computação )
 
 <div>
   <a href="https://github.com/victorhugo9">
