@@ -15,6 +15,7 @@
    <img align="center" alt="vh-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    <img align="center" alt="vh-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="vh-node" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
+   <img align="center" alt="vh-java" height="50" width="50" src="https://icongr.am/devicon/java-original-wordmark.svg?size=128&color=currentColor">
   
 </div>
   
