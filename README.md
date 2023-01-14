@@ -1,7 +1,14 @@
 ### Olá! Eu sou Victor Hugo 
 
 - 📚 Universitário da UNIFG ( Ciência da Computação )
-- 👨🏻‍💻 Estudando... 
+- 👨🏻‍💻 Estudando...
+
+ <div>
+  <a href="https://github.com/victorhugo9">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorhugo9&show_icons=true&theme=dracula&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorhugo9&layout=compact&langs_count=7"/>
+ 
+</div>
 
 
 <div style="display: inline_block"><br>
